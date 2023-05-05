@@ -1,3 +1,22 @@
 .App {
   text-align: center;
 }
+
+form {
+  background-color: bisque;
+  border: 10px;
+  padding: 15px;
+  width: 200px;
+  display: block;
+  margin: auto;
+  width: 50%;
+  text-align: left;
+}
+
+.name-input, .program-input {
+  margin-bottom: 1em;
+}
+
+h1 {
+  margin-bottom: 1.5em;
+}
