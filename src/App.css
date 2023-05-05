@@ -17,6 +17,20 @@ form {
   margin-bottom: 1em;
 }
 
-h1 {
-  margin-bottom: 1.5em;
+h2 {
+  margin-bottom: 1em;
+  margin-top: 4em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 3rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
